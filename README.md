@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developer+in+the+making;Strive+for+Greatness+👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend/DB+dev;Strive+for+Greatness+👨‍💻)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
